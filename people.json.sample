@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "slack": "@johndoe",
+        "date": "01-20"
+    },
+    {
+        "name": "Jane Doe",
+        "slack": "@janedoe",
+        "date": "03-30"
+    }
+]

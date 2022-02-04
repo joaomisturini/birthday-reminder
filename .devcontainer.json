@@ -1,0 +1,10 @@
+{
+	"name": "Node",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "node",
+	"workspaceFolder": "/home/node",
+	"postCreateCommand": "./docker/node/postCreate.sh",
+	"extensions": [
+		"dbaeumer.vscode-eslint"
+	]
+}
